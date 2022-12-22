@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     margin: auto;
-    height: 65px;
+    height: 65px; 
     gap: 20px;
 }
 .month{

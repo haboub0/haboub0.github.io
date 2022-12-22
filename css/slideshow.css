@@ -1,5 +1,5 @@
 .fading {
-    animation: fading 8s infinite
+    animation: fading 8s infinite 
 }
 @keyframes fading {
     0% {opacity: 0}
